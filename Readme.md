@@ -1,6 +1,6 @@
 > vim-colors-solarized 配色
 
-这个主题的更新时间赫然写着“7 years ago”，按照往常套路colorscheme solarized，打开vim简直是一坨shi，应该是新的终端颜色不适配了。
+重装系统后打算配色，这个主题的更新时间赫然写着“7 years ago”，按照往常套路colorscheme solarized，打开vim简直是一坨shi，应该是新的终端颜色不适配了。
 
 1. 打开终端判断
 
