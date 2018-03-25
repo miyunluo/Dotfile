@@ -38,6 +38,6 @@
    if ((has("gui_running") && g:solarized_degrade ==0) || has('termguicolors'))
    ```
 
-5. 没有termguicolors 安装itchyny/lightline.vim
+5. 安装itchyny/lightline.vim
 
    直接在.vimrc添加Plugin，然后:PluginInstall
