@@ -28,7 +28,7 @@ set hlsearch
 " 禁止折行
 set nowrap
 " 设置状态栏主题风格
-let g:Powerlinr_colorscheme='solarized256'
+let g:Powerline_colorscheme='solarized256'
 
 """"""""""""""""" 代码格式
 set ts=4
